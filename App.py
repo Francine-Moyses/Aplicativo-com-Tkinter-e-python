@@ -2,9 +2,6 @@ import os
 import pandas as pd
 import sys
 import os.path
-from openpyxl import load_workbook
-import openpyxl
-import fsspec
 from tkinter import *
 
 def GerarPasta():
