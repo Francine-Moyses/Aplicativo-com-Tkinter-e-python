@@ -17,6 +17,7 @@
   
       pip install tkinter
       pip install os-sys
+      pip install pandas
 
 </div>
 
